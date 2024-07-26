@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: 3e29421d407cfa347af195fb04a541c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 17
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a804f7308db5e4ca0799334b43e37d
+      internalID: -457199638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f94deed11cda4f898166a2ec687ff
+      internalID: 1586490900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fee3f533e887f7498cf75e6cefcdbfd
+      internalID: -1158655926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ed9e57011e15d4abad94b99de9ee64
+      internalID: 1633122938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9394ece85c49e254a885a7e5b5d6f837
+      internalID: 1415398905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272e80a9d5f515c4eaf4bd7345557b75
+      internalID: 525698837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b979a71c4205e64ebf5c482872380dc
+      internalID: 213427541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccc33aba8a216f4b916dc20f913622c
+      internalID: -1997548346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6162b1b5df064b44283c86bce6939c28
+      internalID: -1105707985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18f477d2b0bf1944b3cb62c81884fa9
+      internalID: -480880419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d777295d474ce84382eca940d6c2531
+      internalID: 873926655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf6c4db2eecae448a9422285e6cfc09
+      internalID: -1336627185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb2b175098dee44ba6a5b5a5feb70a3
+      internalID: -1481434648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ebef6365999b4a91adc914a756d02
+      internalID: -194394811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84be88ca5b05914f928b1353361f26f
+      internalID: 538473582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bbe398dcbf0014f8edd33e96591434
+      internalID: 1739248773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1a01fbb600e25498bf16d1247a56d8
+      internalID: -146962855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d22b72c1e1d3d4489a293849e7e0b2
+      internalID: -1575707313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24365cc92d24bbe49a2c8d045e3dcd32
+      internalID: 1140636712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdbd9ffd5a5b584a8bb5f602324ad34
+      internalID: 1123823494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.79999924
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aac5d706b492146aa376e519552ecf
+      internalID: 1117445193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0.79999924
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49273dc10709f843b50e49b13576ddd
+      internalID: 1363948723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0.79999924
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3be01f3fd17e4e4f92d73132fec818d
+      internalID: 1994380204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0.79999924
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13081e1eaa8d76242af340fa75d20b6c
+      internalID: -1308727710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideHouseSetGrid_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0.79999924
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048161b07a274154dae0933fe52e2bf0
+      internalID: 875002816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OutsideHouseSetGrid_0: -457199638
+      OutsideHouseSetGrid_1: 1586490900
+      OutsideHouseSetGrid_10: 873926655
+      OutsideHouseSetGrid_11: -1336627185
+      OutsideHouseSetGrid_12: -1481434648
+      OutsideHouseSetGrid_13: -194394811
+      OutsideHouseSetGrid_14: 538473582
+      OutsideHouseSetGrid_15: 1739248773
+      OutsideHouseSetGrid_16: -146962855
+      OutsideHouseSetGrid_17: -1575707313
+      OutsideHouseSetGrid_18: 1140636712
+      OutsideHouseSetGrid_19: 1123823494
+      OutsideHouseSetGrid_2: -1158655926
+      OutsideHouseSetGrid_20: 1117445193
+      OutsideHouseSetGrid_21: 1363948723
+      OutsideHouseSetGrid_22: 1994380204
+      OutsideHouseSetGrid_23: -1308727710
+      OutsideHouseSetGrid_24: 875002816
+      OutsideHouseSetGrid_3: 1633122938
+      OutsideHouseSetGrid_4: 1415398905
+      OutsideHouseSetGrid_5: 525698837
+      OutsideHouseSetGrid_6: 213427541
+      OutsideHouseSetGrid_7: -1997548346
+      OutsideHouseSetGrid_8: -1105707985
+      OutsideHouseSetGrid_9: -480880419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
